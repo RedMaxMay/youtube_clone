@@ -4,7 +4,6 @@ import { CheckCircle } from "@mui/icons-material";
 import { Link } from "react-router-dom";
 
 const ChannelCard = ({ channelDetail, marginTop }) => {
-  console.log(channelDetail);
   return (
     <Box
       sx={{
